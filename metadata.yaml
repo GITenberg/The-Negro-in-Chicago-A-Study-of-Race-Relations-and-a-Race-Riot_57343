@@ -1,11 +1,16 @@
 _repo: The-Negro-in-Chicago-A-Study-of-Race-Relations-and-a-Race-Riot_57343
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Relations, The Chicago Commission on Race
     gutenberg_agent_id: '49327'
     url: http://www.gutenberg.org/2009/agents/49327
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57343#The-Negro-in-Chicago-A-Study-of-Race-Relations-and-a-Race-Riot
 gutenberg_issued: '2018-06-17'
 gutenberg_type: Text
 identifiers:
